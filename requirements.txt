@@ -1,0 +1,6 @@
+pandas
+lxml
+requests
+fake-useragent
+git+https://github.com/toltec-astro/tollan.git
+git+https://github.com/toltec-astro/dasha.git
